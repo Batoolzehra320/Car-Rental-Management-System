@@ -1,0 +1,2 @@
+# Car-Rental-Management-System
+A Car Rental Management System is a Python-based application developed using Object-Oriented Programming (OOP) concepts. It uses classes like Car, Customer, and Rental to manage bookings, availability, and billing efficiently, ensuring a structured, modular, and maintainable system.
