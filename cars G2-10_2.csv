@@ -1,0 +1,10 @@
+brand,model,seating_capacity,rental_price_per_day,is_available
+toyota,RS,5,500.0,True
+honda,corolla,5,350.0,False
+toyota,bmw,2,100.0,True
+TOYOTA,COROLLA,4,350.0,False
+HONDAd,CIVIC,5,350.0,False
+toyota,civic,2,-250.0,True
+toyota,civic,2,-250.0,True
+honda,civic,2,-250.0,True
+toyota,civic,-2,-100.0,True

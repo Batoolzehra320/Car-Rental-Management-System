@@ -1,0 +1,9 @@
+username,password,first_name,last_name,address,balance,role
+admin,admin123,admin,bee,cis,999000.0,admin
+batool,123,batool,zehra,cis dept,550.0,customer
+batool,12345,batool,zehra,cis,550.0,customer
+admin,admin123,admin,admin,cis dept,1000.0,admin
+RONALDO,12345,CRISTIANO,RONALDO,QATAR-STREET 4,10000.0,customer
+ronaldo,12345,cristiano,ronaldo,qatar-street5,9200.0,customer
+abcd,1234,abc,def,cis,234.0,customer
+batool,123,bat,man,cis dept,-4567.0,customer

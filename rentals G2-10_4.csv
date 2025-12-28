@@ -1,0 +1,10 @@
+username,car_model,start_date,end_date,rent_amount
+bats,corolla,2025-04-27,Ongoing,1000.0
+admin,corolla,2025-05-03,2025-05-03,500.0
+admin,RS,2025-05-03,Ongoing,500.0
+batool,RS,2025-05-16,2025-05-17,500.0
+batool,corolla,2025-05-17,Ongoing,350.0
+batool,bmw,2025-05-17,2025-05-17,100.0
+ronaldo,CIVIC,2025-05-18,Ongoing,350.0
+ronaldo,COROLLA,2025-05-18,Ongoing,350.0
+ronaldo,bmw,2025-05-18,2025-05-18,100.0
